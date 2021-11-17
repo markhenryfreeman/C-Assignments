@@ -1,0 +1,22 @@
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\Order Coffee.exe
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\Order Coffee.deps.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\Order Coffee.runtimeconfig.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\Order Coffee.runtimeconfig.dev.json
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\Order Coffee.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\ref\Order Coffee.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\bin\Debug\net5.0-windows\Order Coffee.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.csproj.AssemblyReference.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee_MarkupCompile.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee_MarkupCompile.lref
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.g.resources
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.AssemblyInfoInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.AssemblyInfo.cs
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.csproj.CoreCompileInputs.cache
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\ref\Order Coffee.dll
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.pdb
+C:\Users\markh\OneDrive\Desktop\MSSA\CSharp\Assignments\XAML\Order Coffee\Order Coffee\obj\Debug\net5.0-windows\Order Coffee.genruntimeconfig.cache
